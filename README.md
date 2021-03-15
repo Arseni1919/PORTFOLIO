@@ -22,3 +22,4 @@ Ph.D. Student -  Industrial Engineering and Managment at BGU
 ### My Contacts
 
 Email: arsenip@post.bgu.ac.il
+LinkedIn: [https://www.linkedin.com/in/arseni-pertzovskiy/](https://www.linkedin.com/in/arseni-pertzovskiy/)
