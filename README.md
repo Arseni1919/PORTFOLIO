@@ -2,7 +2,7 @@
 
 My name is Arseni Petrzovsky and welcome to my website.
 
-You can see here my [GitHub](https://github.com/Arseni1919/) projects.
+You can see here my [GitHub](https://github.com/Arseni1919/GITHUB-STURCURED) projects.
 
 
 ### Education
