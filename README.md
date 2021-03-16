@@ -2,7 +2,7 @@
 
 My name is Arseni Petrzovsky and welcome to my website.
 
-You can see here my [GitHub](https://arseni1919.github.io/GITHUB-STURCURED/) projects.
+You can see [here](https://arseni1919.github.io/GITHUB-STURCURED/) my GitHub projects.
 
 
 ### Education
@@ -16,7 +16,8 @@ Ph.D. Student -  Industrial Engineering and Managment at BGU
 ### Core Qualifications
 
 - Search in AI
-- Python
+- ML
+- RL
 - ROS
 
 ### My Contacts
