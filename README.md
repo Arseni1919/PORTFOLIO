@@ -1,17 +1,17 @@
-## Welcome to My PORTFOLIO Website
+## Welcome
 
-My name is Arseni Petrzovsky and welcome to my website.
+My name is Arseni Petrzovsky.
 
-You can see [here](https://arseni1919.github.io/GITHUB-STURCURED/) my GitHub projects.
+You can see all my GitHub projects in the following link: [Structured GitHub Repositories](https://arseni1919.github.io/GITHUB-STURCURED/).
 
 
 ### Education
 
-B.S. - Industrial Engineering and Managment at BGU
+B.S. - IEM at BGU
 
-M.S. - Industrial Engineering and Managment at BGU
+M.S. - IEM at BGU - Thesis: Implementation of distributed algorithms on a robot team.
 
-Ph.D. Student -  Industrial Engineering and Managment at BGU
+Ph.D. Student -  IEM at BGU - Thesis: Disctributed mobile systems.
 
 ### Core Qualifications
 
