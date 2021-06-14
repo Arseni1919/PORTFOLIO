@@ -11,7 +11,7 @@ B.S. - IEM at BGU
 
 M.S. - IEM at BGU - Thesis: Implementation of distributed algorithms on a robot team.
 
-Ph.D. Student -  IEM at BGU - Thesis: Disctributed mobile systems.
+Ph.D. Student -  IEM at BGU - Multi-agent systems.
 
 ### Core Qualifications
 
